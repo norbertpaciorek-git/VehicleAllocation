@@ -20,7 +20,7 @@ POST to  /parking - body structure
             "VehicleType": ""
         }
 
-POST to /parking/exit = body structure 
+POST to /parking/exit - body structure 
 
         {
             "VehicleReg": ""
