@@ -26,7 +26,7 @@ POST to /parking/exit = body structure
             "VehicleReg": ""
         }
 
-GET to parking 
+GET to /parking 
 
 
 ------------------------------
